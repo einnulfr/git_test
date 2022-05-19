@@ -1,0 +1,15 @@
+This is a test document.
+This is a test
+is a test
+a test
+test
+
+Here's some random code
+#include <iostream>
+#include <cstdio>
+
+int main()
+{
+    printf("Hello, world!");
+    return 0;
+}
